@@ -1,2 +1,2 @@
 # C-Compiler
-A mini C Compiler built using "YACC" and "BISON".
+A mini C Compiler built using "FLEX" and "BISON".
